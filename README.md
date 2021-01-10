@@ -1,0 +1,2 @@
+# HetzBlock
+PiHole HetzBlock List
