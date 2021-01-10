@@ -89,8 +89,8 @@ compact-online.de
 computer-bild.de
 computerbild.de
 computerbildspiele.de
-danisch.de
 danieleganser.ch
+danisch.de
 das-maennermagazin.com
 daskapital.nl
 derwesten.de
@@ -145,6 +145,7 @@ immowelt.de
 jaap.nl
 jobsite.co.uk
 journalistenwatch.com
+json.bild.de
 jungefreiheit.de
 jungle.world
 kaufda.de
@@ -261,7 +262,9 @@ welt.de
 weltn24.de
 weltwoche.ch
 werkenbijtmg.nl
+wetter.bild.de
 wikimannia.org
+www.bild.de
 yad2.co.il
 yoc.de
 zanox.de
